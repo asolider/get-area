@@ -1,8 +1,10 @@
-# 获取省市区分类数据，数据源: http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2017/index.html
+# 获取省市区分类数据，
+
+	数据源: http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2017/index.html
 
 # 初始化数据库表结构
 
-    结构sql文件在：[sql初始化](database/area_table_init.sql)
+    结构sql文件在：[sql初始化](database/migrations/area_table_init.sql)
 
 # 执行步骤
 
